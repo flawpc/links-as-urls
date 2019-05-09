@@ -1,1 +1,0 @@
-javascript:%28function%28%29%7Bvar%20i,c,x,h;for%28i=0;x=document.links[i];++i%29%7Bh=x.href;x.title+=%27%20%27+x.innerHTML;while%28c=x.firstChild%29x.removeChild%28c%29;x.appendChild%28document.createTextNode%28h%29%29;%7D%7D%29%28%29
